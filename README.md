@@ -11,7 +11,7 @@
 ---
 
 ## Driver's Choice: $1.1M+ and Counting (AI-Powered Fuel Optimization for NYC Taxi Drivers)
-**Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
+**Machine Learning | Data Science | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
 
 > ***Testomonial #1:** Thank you, Mohammed! I can't believe this, yaar! I was little scared for hybrid, you know, new technology and all. But the money I save every month, oh my god, it's too much, man!*
 > 
