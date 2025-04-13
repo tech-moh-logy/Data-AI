@@ -21,8 +21,6 @@
 
 An AI-driven, end-to-end data science solution built to transform how NYC taxi drivers select vehicles — maximizing fuel efficiency, boosting profitability, and reducing environmental impact. This project merges rigorous statistical validation with advanced machine learning to deliver real-world results.
 
-[Click here to go back to the "Contents" Section.](#contents) 
-
 ### Real-World Impact
 - $1.1M+ in total economic value generated:
   - $150,000+ in verified direct fuel savings over 4 years
@@ -45,13 +43,21 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 - Libraries: XGBoost, scikit-learn, Pandas, Matplotlib, Seaborn
 - Tools: Streamlit, TensorFlow, PyTorch (experimental modeling)
 
-This project showcases how data science and AI can create profound economic, environmental, and emotional change, reaching beyond the obvious financial benefits. By helping NYC taxi drivers save up to $15,000 annually, it not only transforms their financial futures but also empowers them to make more confident, informed decisions. The savings aren't just numbers—they represent more time, less stress, and a sense of control over their finances. Environmental benefits follow naturally, with fewer emissions from more fuel-efficient vehicles, contributing to a greener city for everyone. The mental peace of not having to worry about escalating gas costs every month is something drivers often don’t realize until they experience it firsthand. Beyond the immediate savings, this approach shifts mindsets, fostering a future where sustainability, financial stability, and peace of mind are within reach for every driver.---
+This project showcases how data science and AI can create profound economic, environmental, and emotional change, reaching beyond the obvious financial benefits. By helping NYC taxi drivers save up to $15,000 annually, it not only transforms their financial futures but also empowers them to make more confident, informed decisions. The savings aren't just numbers—they represent more time, less stress, and a sense of control over their finances. Environmental benefits follow naturally, with fewer emissions from more fuel-efficient vehicles, contributing to a greener city for everyone. The mental peace of not having to worry about escalating gas costs every month is something drivers often don’t realize until they experience it firsthand. Beyond the immediate savings, this approach shifts mindsets, fostering a future where sustainability, financial stability, and peace of mind are within reach for every driver.
+
+*[_View the Full Project_](https://github.com/tech-moh-logy/Data-AI/tree/main/Driver's%20Choice)*
+
+<sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
 ## Database Design: 
 
 [Project Not Uploaded Yet]
+
+*[_View the Full Project_](#)*
+
+<sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
