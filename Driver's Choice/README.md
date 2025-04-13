@@ -14,6 +14,31 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 
 ![IMAGE - Comparative Analysis of Gas Expenses and Efficiency](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/assets/132733865/d1b5af78-98bc-4ccd-ae3d-c7fcf9da3cc7)
 
+### Real-World Impact
+- $1.1M+ in total economic value generated:
+  - $150,000+ in verified direct fuel savings over 4 years
+  - $500,000+ in community-wide fuel savings
+  - Up to $15,000 saved per driver over a 20-month period
+- 30+ NYC taxi drivers influenced by model insights and cost forecasts
+- Reduced fuel consumption and emissions through hybrid/EV vehicle recommendations
+- Improved financial stability and decision-making capabilities for drivers
+
+### Technical Highlights
+- Developed an XGBoost model to forecast long-term fuel cost savings between hybrid, non-hybrid, and EV vehicles
+- Built a full machine learning pipeline integrating data collection, preprocessing, model training, deployment, and monitoring
+- Designed a dynamic Streamlit dashboard for real-time cost analysis and personalized recommendations
+- Conducted statistical testing (t-tests, ANOVA) to validate differences in fuel efficiency across vehicle types
+- Collected and analyzed seven weeks of firsthand data (mileage, gas costs, driving behavior) for high-impact insights
+- Enhanced model accuracy through hyperparameter tuning and performance evaluation
+
+### Tech Stack
+- Languages: Python, SQL, Excel
+- Libraries: XGBoost, scikit-learn, Pandas, Matplotlib, Seaborn
+- Tools: Streamlit, TensorFlow, PyTorch (experimental modeling)
+
+This project showcases how data science and AI can create profound economic, environmental, and emotional change, reaching beyond the obvious financial benefits. By helping NYC taxi drivers save up to $15,000 annually, it not only transforms their financial futures but also empowers them to make more confident, informed decisions. The savings aren't just numbers—they represent more time, less stress, and a sense of control over their finances. Environmental benefits follow naturally, with fewer emissions from more fuel-efficient vehicles, contributing to a greener city for everyone. The mental peace of not having to worry about escalating gas costs every month is something drivers often don’t realize until they experience it firsthand. Beyond the immediate savings, this approach shifts mindsets, fostering a future where sustainability, financial stability, and peace of mind are within reach for every driver.
+
+
 ## Overview
 
 This project presents an in-depth comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders for Uber drivers in the NYC area. The goal is to determine whether investing in hybrid technology results in significant long-term cost savings and environmental benefits.
