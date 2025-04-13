@@ -2,6 +2,16 @@
 
 Longtime friends, Ahmed and Hossain, both Uber drivers, found themselves in the same car-buying boat. Their trusty steeds, worn thin by years of rideshare duty, were begging for retirement. The solution? A brand new 2024 Toyota Highlander XLE, a comfortable and spacious option for their passengers. But when it came to engine options, their paths diverged. Ahmed, ever the eco-conscious one, opted for the futuristic allure of the Highlander Hybrid, while Hossain stuck with the tried-and-true non-hybrid version. The price difference? A cool $5,900 (including tax). Now, both men are curious: would Ahmed's hefty investment in hybrid technology pay off in the long run? Only time, and miles driven, would tell.
 
+**Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
+
+> *Thank you, Mohammed! I can't believe this, yaar! I was little scared for hybrid, you know, new technology and all. But the money I save every month, oh my god, it's too much, man!*
+> 
+> *Tumhe pata nahi yaar, hybrid lene se gas kitna save ho raha hai! Pehle jo paisa har mahine gas par jaata tha, ab wo bacha ke rakhta hoon!*
+>
+> *$400 bach gaya har mahina aur koi shor nahi! Best decision, bhai! Pichhe socha, yeh karte to achha hota. 15 saal se NYC mein chala raha hoon! Nahi jaana tha ki itna paisa bachaya jaa sakta hai.*
+
+An AI-driven, end-to-end data science solution built to transform how NYC taxi drivers select vehicles — maximizing fuel efficiency, boosting profitability, and reducing environmental impact. This project merges rigorous statistical validation with advanced machine learning to deliver real-world results.
+
 ![IMAGE - Comparative Analysis of Gas Expenses and Efficiency](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/assets/132733865/d1b5af78-98bc-4ccd-ae3d-c7fcf9da3cc7)
 
 ## Overview
@@ -10,7 +20,7 @@ This project presents an in-depth comparative analysis of gas expenses and effic
 
 ## Findings
 
-- The analysis reveals that Hybrid Toyota Highlanders could potentially save up to **$15,000** on gas expenses after a 20-month period, compared to non-hybrid versions. This success has inspired over **30 other NYC Uber drivers** to adopt the same approach, resulting in a projected **$600,000+ savings** over four years.
+- The analysis reveals that Hybrid Toyota Highlanders could potentially save up to **$15,000** on gas expenses after a 20-month period, compared to non-hybrid versions. This success has inspired over **30 other NYC Uber drivers** to adopt the same approach, resulting in a projected **$500,000+ savings** over four years.
 - Through precise **data collection** from multiple sources, including gas expense records, miles traveled, and hours worked, the analysis ensures the reliability and relevance of the conclusions.
 - **Data visualizations**, including bar charts and line graphs, clearly compare gas expenses, average miles driven, and efficiency metrics for both vehicle types, helping drivers make informed decisions.
 
