@@ -1,0 +1,53 @@
+# Fueled by Friendship and Frugality: The Highlander Hybrid Showdown
+
+Longtime friends, Ahmed and Hossain, both Uber drivers, found themselves in the same car-buying boat. Their trusty steeds, worn thin by years of rideshare duty, were begging for retirement. The solution? A brand new 2024 Toyota Highlander XLE, a comfortable and spacious option for their passengers. But when it came to engine options, their paths diverged. Ahmed, ever the eco-conscious one, opted for the futuristic allure of the Highlander Hybrid, while Hossain stuck with the tried-and-true non-hybrid version. The price difference? A cool $5,900 (including tax). Now, both men are curious: would Ahmed's hefty investment in hybrid technology pay off in the long run? Only time, and miles driven, would tell.
+
+![IMAGE - Comparative Analysis of Gas Expenses and Efficiency](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/assets/132733865/d1b5af78-98bc-4ccd-ae3d-c7fcf9da3cc7)
+
+## Overview
+
+This project presents an in-depth comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders for Uber drivers in the NYC area. The goal is to determine whether investing in hybrid technology results in significant long-term cost savings and environmental benefits.
+
+## Findings
+
+- The analysis reveals that Hybrid Toyota Highlanders could potentially save up to **$15,000** on gas expenses after a 20-month period, compared to non-hybrid versions. This success has inspired over **30 other NYC Uber drivers** to adopt the same approach, resulting in a projected **$600,000+ savings** over four years.
+- Through precise **data collection** from multiple sources, including gas expense records, miles traveled, and hours worked, the analysis ensures the reliability and relevance of the conclusions.
+- **Data visualizations**, including bar charts and line graphs, clearly compare gas expenses, average miles driven, and efficiency metrics for both vehicle types, helping drivers make informed decisions.
+
+## Project Details
+
+- **Project Link:** [Comparative Analysis of Gas Expenses and Efficiency](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedU.tiger.dataAnalysis.highlanders.pdf)
+- **Data Sources:** Gas expense records, miles traveled, hours worked
+- **Tools Used:**
+  - **Languages:** Python, SQL, Excel
+  - **Libraries:** XGBoost, scikit-learn, Pandas, Matplotlib, Seaborn
+  - **Visualization & Deployment:** Streamlit for real-time dashboard, TensorFlow & PyTorch for experimental modeling
+- **Data Collection Process:**
+  - For this analysis, I personally collected data over a seven-week period, focusing on gas expenses, mileage, and driving habits. The **manual data collection** approach ensured that I could account for **real-world variability** and **personalized driving behavior**.
+
+## Methodology
+
+1. **Predictive Modeling:**
+   - I built an **XGBoost model** to forecast fuel cost savings, optimizing for long-term savings across various vehicle types. This model was designed to predict cost reduction based on different driving behaviors and environmental factors.
+   - In addition to the primary predictive model, I conducted extensive **hyperparameter tuning** to improve the accuracy and robustness of predictions.
+   
+2. **Statistical Validation:**
+   - To ensure that the differences in fuel efficiency were statistically significant, I performed rigorous **statistical tests** (including t-tests and ANOVA), confirming the advantages of hybrid and electric vehicles over traditional non-hybrids.
+
+3. **Dashboard Development:**
+   - I developed a **Streamlit dashboard** that provides real-time cost analysis and recommendations for individual drivers, allowing them to make data-driven decisions about which vehicle to purchase. The dashboard provides **personalized savings estimates** based on their driving habits, miles traveled, and fuel efficiency metrics.
+
+4. **Environmental & Economic Impacts:**
+   - Beyond fuel savings, this analysis contributes to a **greener environment** by advocating for hybrid and EV vehicles, which reduce carbon emissions. The project demonstrates how small decisions—like opting for a hybrid vehicle—can have a **multiplier effect**, benefiting both the individual driver and the community at large.
+
+## Conclusion
+
+The findings of this project provide actionable insights for Uber drivers and similar stakeholders in the rideshare industry, helping them make informed decisions about vehicle investments. Ahmed’s decision to invest in the **Hybrid Toyota Highlander** could indeed lead to significant cost savings, reduced environmental impact, and better long-term financial stability. For drivers in the NYC area or other urban settings, this analysis offers a clear case for how **predictive modeling** and **data science** can transform both their financial outcomes and ecological footprint.
+
+For more detailed information, refer to the [complete report](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedU.tiger.dataAnalysis.highlanders.pdf).
+
+---
+
+## License
+
+This project is licensed under the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md). For more details, see the [LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
