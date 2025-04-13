@@ -25,6 +25,18 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 
 <sub>[⬅ Back to Contents](#contents)</sub>
 
+
+---
+
+## End-to-End Machine Learning Project in Python: Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization
+**Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
+
+[Project Not Uploaded Yet]
+
+*[_View the Full Project_](#)*
+
+<sub>[⬅ Back to Contents](#contents)</sub>
+
 ---
 
 ## Database Design: 
