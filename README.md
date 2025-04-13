@@ -13,11 +13,11 @@
 ## Driver's Choice: $1.1M+ and Counting (AI-Powered Fuel Optimization for NYC Taxi Drivers)
 **Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
 
-> *Thank you, Mohammed! I can't believe this, yaar! I was little scared for hybrid, you know, new technology and all. But the money I save every month, oh my god, it's too much, man!*
+> ***Testomonial #1:** Thank you, Mohammed! I can't believe this, yaar! I was little scared for hybrid, you know, new technology and all. But the money I save every month, oh my god, it's too much, man!*
 > 
-> *Tumhe pata nahi yaar, hybrid lene se gas kitna save ho raha hai! Pehle jo paisa har mahine gas par jaata tha, ab wo bacha ke rakhta hoon!*
+> ***Testomonial #2:** Tumhe pata nahi yaar, hybrid lene se gas kitna save ho raha hai! Pehle jo paisa har mahine gas par jaata tha, ab wo bacha ke rakhta hoon!*
 >
-> *$400 bach gaya har mahina aur koi shor nahi! Best decision, bhai! Pichhe socha, yeh karte to achha hota. 15 saal se NYC mein chala raha hoon! Nahi jaana tha ki itna paisa bachaya jaa sakta hai.*
+> ***Testomonial #3:** $400 bach gaya har mahina aur koi shor nahi! Best decision, bhai! Pichhe socha, yeh karte to achha hota. 15 saal se NYC mein chala raha hoon! Nahi jaana tha ki itna paisa bachaya jaa sakta hai.*
 
 *[_View the Full Project_](https://github.com/tech-moh-logy/Data-AI/tree/main/Driver's%20Choice)*
 
