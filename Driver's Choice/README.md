@@ -12,8 +12,6 @@ Longtime friends, Ahmed and Hossain, both Uber drivers, found themselves in the 
 
 An AI-driven, end-to-end data science solution built to transform how NYC taxi drivers select vehicles — maximizing fuel efficiency, boosting profitability, and reducing environmental impact. This project merges rigorous statistical validation with advanced machine learning to deliver real-world results.
 
-![IMAGE - Comparative Analysis of Gas Expenses and Efficiency](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/assets/132733865/d1b5af78-98bc-4ccd-ae3d-c7fcf9da3cc7)
-
 ### Real-World Impact
 - $1.1M+ in total economic value generated:
   - $150,000+ in verified direct fuel savings over 4 years
