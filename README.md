@@ -3,7 +3,7 @@
 </div>
 
 ## Projects
-1. [Driver's Choice: $1.1M+ and Counting (Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis)](#drivers-choice-ai-powered-fuel-optimization-for-nyc-taxi-drivers)
+1. [Driver's Choice: $1.1M+ and Counting](#drivers-choice-ai-powered-fuel-optimization-for-nyc-taxi-drivers) | Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis
 2. [End-to-End Machine Learning Project in Python: Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization](#)
 3. [Project Not Uploaded Yet](#)
 4. [Project Not Uploaded Yet](#)
