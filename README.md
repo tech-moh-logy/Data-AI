@@ -2,7 +2,7 @@
   <h1>Data Science, Database Management, AI & Machine Learning Researches</h1>
 </div>
 
-## Projects
+## Contents
 1. [Driver's Choice: $1.1M+ and Counting](#drivers-choice-ai-powered-fuel-optimization-for-nyc-taxi-drivers) | Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis
 2. [End-to-End Machine Learning Project in Python: Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization](#)
 3. [Project Not Uploaded Yet](#)
@@ -20,6 +20,8 @@
 > *$400 bach gaya har mahina aur koi shor nahi! Best decision, bhai! Pichhe socha, yeh karte to achha hota. 15 saal se NYC mein chala raha hoon! Nahi jaana tha ki itna paisa bachaya jaa sakta hai.*
 
 An AI-driven, end-to-end data science solution built to transform how NYC taxi drivers select vehicles — maximizing fuel efficiency, boosting profitability, and reducing environmental impact. This project merges rigorous statistical validation with advanced machine learning to deliver real-world results.
+
+[Click here to go back to the "Contents" Section.](#contents) 
 
 ### Real-World Impact
 - $1.1M+ in total economic value generated:
