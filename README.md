@@ -49,6 +49,16 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 
 ---
 
+## The Motions: 
+
+[Project Not Uploaded Yet]
+
+*[_View the Full Project_](#)*
+
+<sub>[⬅ Back to Contents](#contents)</sub>
+
+---
+
 <sub>
   
   ### Credits
