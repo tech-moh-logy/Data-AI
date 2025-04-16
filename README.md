@@ -28,10 +28,20 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 
 ---
 
-## End-to-End Machine Learning Project in Python: Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization
-**Machine Learning | Predictive Analytics | Python | SQL | Streamlit | XGBoost | Data Engineering | Statistical Analysis**
+## End-to-End Machine Learning Project in Python: Real Estate Price Prediction with Data Pipelines, Correlation Analysis, and Cross-Validation
+**Machine Learning | Predictive Analytics | Python | Data Engineering | Statistical Analysis | Data Visualization | Jupyter Notebook | Model Evaluation**
 
-[Project Not Uploaded Yet]
+An end-to-end machine learning project designed to simulate how real-world business problems are tackled using data science. Based on a real estate company’s need to predict housing prices, this project walks through every step of a modern ML pipeline — from data collection to model evaluation — using Python and Jupyter Notebooks.
+
+By analyzing attribute correlations, cleaning and engineering features, handling missing values, and building a streamlined pipeline, this project delivers a predictive model capable of estimating home values based on a variety of input features. Through a hands-on walkthrough of key machine learning workflows, it highlights the importance of good data practices, reproducible pipelines, and statistically-sound evaluation.
+
+Key techniques explored include:
+- Data exploration and visualization
+- Correlation analysis and feature selection
+- Handling missing data and data cleaning
+- Stratified sampling and train-test splitting
+- Cross-validation and performance evaluation
+- Pipeline creation for reproducibility and scalability
 
 *[_View the Full Project_](#)*
 
