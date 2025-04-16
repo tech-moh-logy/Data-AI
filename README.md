@@ -29,19 +29,26 @@ An AI-driven, end-to-end data science solution built to transform how NYC taxi d
 ---
 
 ## End-to-End Machine Learning Project in Python: Real Estate Price Prediction with Data Pipelines, Correlation Analysis, and Cross-Validation
-**Machine Learning | Predictive Analytics | Python | Data Engineering | Statistical Analysis | Data Visualization | Jupyter Notebook | Model Evaluation**
+**scikit-learn | Machine Learning | Predictive Analytics | Python | Data Engineering | Statistical Analysis | Data Visualization | Jupyter Notebook | Model Evaluation**
 
-An end-to-end machine learning project designed to simulate how real-world business problems are tackled using data science. Based on a real estate company’s need to predict housing prices, this project walks through every step of a modern ML pipeline — from data collection to model evaluation — using Python and Jupyter Notebooks.
+This project showcases a comprehensive machine learning pipeline designed to predict housing prices using real-world data. With a focus on real-world applicability, it integrates key data science principles to solve a business problem faced by real estate companies: accurately forecasting property prices based on a variety of features.
 
-By analyzing attribute correlations, cleaning and engineering features, handling missing values, and building a streamlined pipeline, this project delivers a predictive model capable of estimating home values based on a variety of input features. Through a hands-on walkthrough of key machine learning workflows, it highlights the importance of good data practices, reproducible pipelines, and statistically-sound evaluation.
+The solution involves a structured end-to-end workflow, from data ingestion and cleaning to model training, evaluation, and deployment. The model takes into account various attributes such as location, size, and other critical factors, ensuring that predictions reflect actual market trends. 
 
-Key techniques explored include:
-- Data exploration and visualization
-- Correlation analysis and feature selection
-- Handling missing data and data cleaning
-- Stratified sampling and train-test splitting
-- Cross-validation and performance evaluation
-- Pipeline creation for reproducibility and scalability
+### Workflow Highlights:
+- **Data Loading & Cleaning:** Reading CSV data using `pandas`, inspecting distributions, identifying missing values
+- **Exploratory Data Analysis:** Summary statistics (`describe()`), data visualization with `matplotlib`, correlation analysis
+- **Data Splitting Techniques:**
+  - Manual train-test split
+  - scikit-learn’s `train_test_split`
+  - `StratifiedShuffleSplit` for preserving data distribution
+- **Feature Engineering:** Attribute combination testing, correlation-based feature selection
+- **Handling Missing Values:** Using `SimpleImputer` for imputation
+- **Pipeline Creation:** Building reusable data preprocessing and modeling pipelines
+- **Model Selection & Training:** Training multiple models to compare performance
+- **Model Evaluation:** Using metrics and **cross-validation** for robust evaluation
+- **Model Serialization:** Exporting the trained model using `joblib`
+- **Deployment Simulation:** Loading the saved model and testing on unseen data
 
 *[_View the Full Project_](#)*
 
