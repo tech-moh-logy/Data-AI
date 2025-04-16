@@ -58,7 +58,7 @@ The solution involves a structured end-to-end workflow, from data ingestion and 
 
 ## Database Design: 
 
-# Social Media Application Relational Database Schema Design and Implementation
+### Social Media Application Relational Database Schema Design and Implementation
 
 This project encompassed the complete design and implementation of a normalized relational database schema to underpin the core functionalities of a social media application. The primary objective was the creation of a well-structured, efficient, and maintainable database model optimized for managing user entities, textual content (tweets), content categorization via hashtags, directed acyclic graph (DAG)-like user relationships (following), and user-content affinity through likes.
 
