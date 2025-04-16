@@ -71,7 +71,7 @@ The schema includes the following key tables:
 
 The design prioritizes data integrity through the use of primary and foreign keys, unique constraints, and the `ON DELETE CASCADE` rule where appropriate. Sample data insertions and basic analytics queries were also developed to demonstrate data population and retrieval capabilities, such as finding top users by follower count and listing tweets by hashtag.
 
-*[_View the Full Project_](#)*
+*[_View the Full Project_](https://github.com/tech-moh-logy/Data-AI/blob/main/social_media_db_design.sql)*
 
 <sub>[⬅ Back to Contents](#contents)</sub>
 
