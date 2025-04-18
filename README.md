@@ -6,7 +6,7 @@
 1. [Driver's Choice: $1.1M+ and Counting](#drivers-choice-11m-and-counting-ai-powered-fuel-optimization-for-nyc-taxi-drivers): Machine Learning, Predictive Analytics, Python, SQL, Streamlit, XGBoost, Data Engineering, Statistical Analysis
 2. [End-to-End Machine Learning Project in Python](#end-to-end-machine-learning-project-in-python-real-estate-price-prediction-with-data-pipelines-correlation-analysis-and-cross-validation): Real Estate Price Prediction with Data Pipelines, Correlation Analysis, and Cross-Validation
 3. [Database Design: Social Media Application Relational Database Schema Design and Implementation](#database-design-social-media-application-relational-database-schema-design-and-implementation)
-4. [Project Not Uploaded Yet](#)
+4. [AI Chatbot](#)
 
 ---
 
