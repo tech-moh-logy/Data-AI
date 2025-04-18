@@ -6,7 +6,8 @@
 1. [Driver's Choice: $1.1M+ and Counting](#drivers-choice-11m-and-counting-ai-powered-fuel-optimization-for-nyc-taxi-drivers): Machine Learning, Predictive Analytics, Python, SQL, Streamlit, XGBoost, Data Engineering, Statistical Analysis
 2. [End-to-End Machine Learning Project in Python](#end-to-end-machine-learning-project-in-python-real-estate-price-prediction-with-data-pipelines-correlation-analysis-and-cross-validation): Real Estate Price Prediction with Data Pipelines, Correlation Analysis, and Cross-Validation
 3. [Database Design: Social Media Application Relational Database Schema Design and Implementation](#database-design-social-media-application-relational-database-schema-design-and-implementation)
-4. [AI Chatbot](#)
+4. [Savatar - Interactive AI Chatbot](#)
+5. [MotionWise Fitness](#)
 
 ---
 
@@ -56,6 +57,25 @@ The solution involves a structured end-to-end workflow, from data ingestion and 
 
 ---
 
+## Savatar - Interactive AI Chatbot: Dynamic Responses and Personalized Engagement  
+**Artificial Intelligence | Natural Language Processing | Google Gemini API | JavaScript | HTML | CSS**
+
+An interactive chatbot powered by the **Google Gemini API**, designed to deliver dynamic, context-aware responses. By integrating NLP capabilities, this chatbot offers personalized conversations tailored to user inquiries. With features like **image uploads** and an **emoji picker**, it provides an engaging user experience. 
+
+### Key Highlights:
+- **Dynamic Conversations**: Leverages Google Gemini API for real-time, contextual responses.
+- **Personalization**: Easily customizable to reflect company-specific information, enhancing user engagement.
+- **Interactive Features**: Image uploads and emoji picker for enriched user interactions.
+- **Simple Integration**: API key configuration allows for seamless setup and easy updates.
+
+This project demonstrates the potential of combining AI and NLP to create adaptable, user-centric solutions for various use cases, from customer support to interactive content.
+
+*[_View the Full Project_](#)*
+
+<sub>[⬅ Back to Contents](#contents)</sub>
+
+--
+
 ## Database Design: Social Media Application Relational Database Schema Design and Implementation
 
 This project involved designing and implementing a relational database schema to support the core features of a social media application. The goal was a well-structured, efficient, and maintainable database for managing users, their posts (tweets), social connections, and content organization.
@@ -77,9 +97,11 @@ The design prioritizes data integrity through the use of primary and foreign key
 
 ---
 
-## The Motions: 
+## MotionWise Fitness: 
 
 [Project Not Uploaded Yet]
+
+Tired of miscounting push-ups and wondering if you're getting the most out of your workout? This AI project automatically counts your repetitions by tracking your movements, ensuring accuracy for effective exercise. By eliminating manual counting, it helps prevent overexertion, promotes healthy blood flow, and encourages proper form for better results. Imagine exercising with confidence, knowing every up and down is precisely recorded thanks to intelligent IoT tracking.
 
 *[_View the Full Project_](#)*
 
