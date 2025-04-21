@@ -22,6 +22,8 @@
 
 *[_View the Full Project_](https://github.com/tech-moh-logy/Data-AI/tree/main/Driver's%20Choice)*
 
+> ***Warning:** The cost-benefit outcomes highlighted by Driver's Choice are most applicable to high-mileage, full-time drivers who operate intensive weekly schedules. Results may vary for drivers with lower mileage or shorter vehicle ownership horizons.*
+
 This AI-driven, end-to-end data science solution is built to transform how NYC's high-mileage taxi drivers select vehicles, maximizing fuel efficiency, boosting profitability, and reducing environmental impact. By merging rigorous statistical validation with advanced machine learning, we aim to deliver real-world results tailored to the unique demands of drivers who work long hours.
 
 Our system develops an XGBoost model to forecast long-term fuel cost savings across hybrid and non-hybrid vehicles, leveraging firsthand, high-frequency data collected from drivers with similar work patterns. This ground-truth approach allows for more accurate feature engineering and nuanced training, avoiding reliance on generalized assumptions.
